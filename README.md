@@ -1,7 +1,7 @@
 ### Hi, I'm Thiago Neves 👋
 
-- 💻 Music & Content Specialis at Triller
-- 📚 Studyng Analysis and Systems development
+- 💻 Ops & Content Analyst
+- 📚 Studying Systems Analysis and Development
 
 
 ## Hard Skills
