@@ -1,7 +1,7 @@
 ### Hello, I'm Thiago Neves 👋
 
 - 🧑‍💻 Ops & Content Specialist
-- 📚 Studying Full Stack Development
+- 📚 Studying Front End Development
 
 
 ## 🛠️ Hard Skills
