@@ -1,6 +1,6 @@
 ### Hello, I'm Thiago Neves 👋
 
-- 🧑‍💻 Ops & Content Specialist
+- 🧑‍💻 Content & Ops Specialist
 - 📚 Studying Front End Development
 
 
