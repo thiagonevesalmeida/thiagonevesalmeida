@@ -11,14 +11,13 @@
   <img align="center" title="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" title="NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" title="ReactJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" title="NextJs" height="30" width="40" src="https://skills.thijs.gg/icons?i=nextjs">
   <img align="center" title="Figma" height="30" width="40" src="https://skills.thijs.gg/icons?i=figma">
 </div>
   
 ## 🚀 Learnig
 <div style="display: inline_block">
-  <img align="center" title="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" title="VueJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" title="NextJs" height="30" width="40" src="https://skills.thijs.gg/icons?i=nextjs">
   <img align="center" title="Prisma" height="30" width="40" src="https://skills.thijs.gg/icons?i=prisma">
   <img align="center" title="TailwindCSS" height="30" width="40" src="https://skills.thijs.gg/icons?i=tailwind">
 </div>
