@@ -17,9 +17,11 @@
   
 ## 🚀 Learnig
 <div style="display: inline_block">
-  <img align="center" title="VueJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" title="Prisma" height="30" width="40" src="https://skills.thijs.gg/icons?i=prisma">
   <img align="center" title="TailwindCSS" height="30" width="40" src="https://skills.thijs.gg/icons?i=tailwind">
+  <img align="center" title="Prisma" height="30" width="40" src="https://skills.thijs.gg/icons?i=prisma">
+  <img align="center" title="Linux" height="30" width="40" src="https://skills.thijs.gg/icons?i=linux">
+  <img align="center" title="C" height="30" width="40" src="https://skills.thijs.gg/icons?i=c">
+  
 </div>
                                                                                                                 
 ## 📱 Contact                                                                                                         
