@@ -1,6 +1,6 @@
 ### Hello, I'm Thiago Neves 👋
 
-- 🧑‍💻 Front End Developer
+- 🧑‍💻 Software Developement
 - 📱 Content Ops Specialist
 
 ## 🛠️ Hard Skills
