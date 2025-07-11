@@ -10,17 +10,15 @@
   <img align="center" title="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" title="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" title="NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" title="ReactJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" title="NextJs" height="30" width="40" src="https://skills.thijs.gg/icons?i=nextjs">
-  <img align="center" title="Figma" height="30" width="40" src="https://skills.thijs.gg/icons?i=figma">
+  <img align="center" title="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/figma/figma-original.svg">
 </div>
   
 ## 🚀 Learnig
 <div style="display: inline_block">
-  <img align="center" title="TailwindCSS" height="30" width="40" src="https://skills.thijs.gg/icons?i=tailwind">
-  <img align="center" title="Prisma" height="30" width="40" src="https://skills.thijs.gg/icons?i=prisma">
-  <img align="center" title="Linux" height="30" width="40" src="https://skills.thijs.gg/icons?i=linux">
-  <img align="center" title="C" height="30" width="40" src="https://skills.thijs.gg/icons?i=c">
+  <img align="center" title="TailwindCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/tailwindcss/tailwindcss-original.svg">
+  <img align="center" title="Prisma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/prisma/prisma-original.svg">
+  <img align="center" title="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linux/linux-original.svg">
+  <img align="center" title="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/c/c-original.svg">
   
 </div>
                                                                                                                 
